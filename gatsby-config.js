@@ -4,6 +4,7 @@ module.exports = {
   },
   plugins: [
     "gatsby-plugin-sharp",
+    "gatsby-plugin-image",
     "gatsby-transformer-sharp",
     {
       resolve: "gatsby-source-filesystem",
