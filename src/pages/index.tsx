@@ -31,21 +31,21 @@ const IndexPage = () => {
         src="https://images.unsplash.com/photo-1452570053594-1b985d6ea890"
         alt="Macaw parrot by Andrew Pons"
         formats={["jpg"]}
-        maxWidth={802}
+        maxWidth={801}
       />
       <h4>WebP 52kB</h4>
       <StaticImage
         src="https://images.unsplash.com/photo-1452570053594-1b985d6ea890"
         alt="Macaw parrot by Andrew Pons"
         formats={["webp"]}
-        maxWidth={802}
+        maxWidth={801}
       />
       <h4>AVIF 37kB</h4>
       <StaticImage
         src="https://images.unsplash.com/photo-1452570053594-1b985d6ea890"
         alt="Macaw parrot by Andrew Pons"
         formats={["avif"]}
-        maxWidth={802}
+        maxWidth={801}
       />
 
       <h3>
