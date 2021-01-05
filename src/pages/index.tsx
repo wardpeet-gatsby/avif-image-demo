@@ -136,7 +136,7 @@ const IndexPage = () => {
         src="https://images.unsplash.com/photo-1607283339784-c73ff8195c0e"
         alt="Open your eyes dear!! by Umesh Soni"
         formats={["avif"]}
-        maxWidth={800}
+        maxWidth={802}
       />
 
       <p>Images via Unsplash</p>
