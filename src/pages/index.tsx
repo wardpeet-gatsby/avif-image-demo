@@ -18,6 +18,37 @@ const IndexPage = () => {
         gatsby-plugin-sharp, displayed via gatsby-plugin-image.
       </p>
       <h3>
+        <a href="https://unsplash.com/photos/lylCw4zcA7I">
+          Macaw parrot by Andrew Pons
+        </a>
+      </h3>
+      <p>
+        This colorful image has good results at default quality in all formats.
+        AVIF is around half the size of JPEG, with WebP in between.
+      </p>
+      <h4>JPG 73kB</h4>
+      <StaticImage
+        src="https://images.unsplash.com/photo-1452570053594-1b985d6ea890"
+        alt="Macaw parrot by Andrew Pons"
+        formats={["jpg"]}
+        maxWidth={800}
+      />
+      <h4>WebP 52kB</h4>
+      <StaticImage
+        src="https://images.unsplash.com/photo-1452570053594-1b985d6ea890"
+        alt="Macaw parrot by Andrew Pons"
+        formats={["webp"]}
+        maxWidth={800}
+      />
+      <h4>AVIF 37kB</h4>
+      <StaticImage
+        src="https://images.unsplash.com/photo-1452570053594-1b985d6ea890"
+        alt="Macaw parrot by Andrew Pons"
+        formats={["avif"]}
+        maxWidth={800}
+      />
+
+      <h3>
         <a href="https://unsplash.com/photos/Gg7uKdHFb_c">
           Alpine mountains under a clear sky by Ryan Schroeder
         </a>
@@ -73,37 +104,6 @@ const IndexPage = () => {
         alt="Alpine mountains under a clear sky by Ryan Schroeder"
         formats={["avif"]}
         maxWidth={1600}
-      />
-
-      <h3>
-        <a href="https://unsplash.com/photos/lylCw4zcA7I">
-          Macaw parrot by Andrew Pons
-        </a>
-      </h3>
-      <p>
-        This colorful image has good results at default quality in all formats.
-        AVIF is around half the size of JPEG, with WebP in between.
-      </p>
-      <h4>JPG 73kB</h4>
-      <StaticImage
-        src="https://images.unsplash.com/photo-1452570053594-1b985d6ea890"
-        alt="Macaw parrot by Andrew Pons"
-        formats={["jpg"]}
-        maxWidth={800}
-      />
-      <h4>WebP 52kB</h4>
-      <StaticImage
-        src="https://images.unsplash.com/photo-1452570053594-1b985d6ea890"
-        alt="Macaw parrot by Andrew Pons"
-        formats={["webp"]}
-        maxWidth={800}
-      />
-      <h4>AVIF 37kB</h4>
-      <StaticImage
-        src="https://images.unsplash.com/photo-1452570053594-1b985d6ea890"
-        alt="Macaw parrot by Andrew Pons"
-        formats={["avif"]}
-        maxWidth={800}
       />
 
       <h3>
