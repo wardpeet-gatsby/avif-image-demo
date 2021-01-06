@@ -31,21 +31,21 @@ const IndexPage = () => {
         src="https://images.unsplash.com/photo-1452570053594-1b985d6ea890"
         alt="Macaw parrot by Andrew Pons"
         formats={["jpg"]}
-        maxWidth={850}
+        maxWidth={450}
       />
       <h4>WebP 52kB</h4>
       <StaticImage
         src="https://images.unsplash.com/photo-1452570053594-1b985d6ea890"
         alt="Macaw parrot by Andrew Pons"
         formats={["webp"]}
-        maxWidth={850}
+        maxWidth={450}
       />
       <h4>AVIF 37kB</h4>
       <StaticImage
         src="https://images.unsplash.com/photo-1452570053594-1b985d6ea890"
         alt="Macaw parrot by Andrew Pons"
         formats={["avif"]}
-        maxWidth={850}
+        maxWidth={450}
       />
 
       <h3>
@@ -122,21 +122,21 @@ const IndexPage = () => {
         src="https://images.unsplash.com/photo-1607283339784-c73ff8195c0e"
         alt="Open your eyes dear!! by Umesh Soni"
         formats={["jpg"]}
-        maxWidth={850}
+        maxWidth={450}
       />
       <h4>WebP 23kB</h4>
       <StaticImage
         src="https://images.unsplash.com/photo-1607283339784-c73ff8195c0e"
         alt="Open your eyes dear!! by Umesh Soni"
         formats={["webp"]}
-        maxWidth={850}
+        maxWidth={450}
       />
       <h4>AVIF 14kB</h4>
       <StaticImage
         src="https://images.unsplash.com/photo-1607283339784-c73ff8195c0e"
         alt="Open your eyes dear!! by Umesh Soni"
         formats={["avif"]}
-        maxWidth={850}
+        maxWidth={450}
       />
 
       <p>Images via Unsplash</p>
