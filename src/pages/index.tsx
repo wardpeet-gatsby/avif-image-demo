@@ -31,21 +31,21 @@ const IndexPage = () => {
         src="https://images.unsplash.com/photo-1452570053594-1b985d6ea890"
         alt="Macaw parrot by Andrew Pons"
         formats={["jpg"]}
-        maxWidth={830}
+        maxWidth={840}
       />
       <h4>WebP 52kB</h4>
       <StaticImage
         src="https://images.unsplash.com/photo-1452570053594-1b985d6ea890"
         alt="Macaw parrot by Andrew Pons"
         formats={["webp"]}
-        maxWidth={830}
+        maxWidth={840}
       />
       <h4>AVIF 37kB</h4>
       <StaticImage
         src="https://images.unsplash.com/photo-1452570053594-1b985d6ea890"
         alt="Macaw parrot by Andrew Pons"
         formats={["avif"]}
-        maxWidth={830}
+        maxWidth={840}
       />
 
       <h3>
@@ -71,7 +71,7 @@ const IndexPage = () => {
         src="https://images.unsplash.com/34/BA1yLjNnQCI1yisIZGEi_2013-07-16_1922_IMG_9873.jpg"
         alt="Alpine mountains under a clear sky by Ryan Schroeder"
         formats={["jpg"]}
-        maxWidth={1720}
+        maxWidth={1730}
       />
       <h4>JPG quality 80 - 197kB</h4>
 
@@ -80,14 +80,14 @@ const IndexPage = () => {
         alt="Alpine mountains under a clear sky by Ryan Schroeder"
         formats={["jpg"]}
         quality={80}
-        maxWidth={1720}
+        maxWidth={1730}
       />
       <h4>WebP quality 50 - 87kB</h4>
       <StaticImage
         src="https://images.unsplash.com/34/BA1yLjNnQCI1yisIZGEi_2013-07-16_1922_IMG_9873.jpg"
         alt="Alpine mountains under a clear sky by Ryan Schroeder"
         formats={["webp"]}
-        maxWidth={1720}
+        maxWidth={1730}
       />
       <h4>WebP quality 80 - 150kB</h4>
 
@@ -95,7 +95,7 @@ const IndexPage = () => {
         src="https://images.unsplash.com/34/BA1yLjNnQCI1yisIZGEi_2013-07-16_1922_IMG_9873.jpg"
         alt="Alpine mountains under a clear sky by Ryan Schroeder"
         formats={["webp"]}
-        maxWidth={1720}
+        maxWidth={1730}
         quality={80}
       />
       <h4>AVIF 71kB</h4>
@@ -103,7 +103,7 @@ const IndexPage = () => {
         src="https://images.unsplash.com/34/BA1yLjNnQCI1yisIZGEi_2013-07-16_1922_IMG_9873.jpg"
         alt="Alpine mountains under a clear sky by Ryan Schroeder"
         formats={["avif"]}
-        maxWidth={1720}
+        maxWidth={1730}
       />
 
       <h3>
@@ -122,21 +122,21 @@ const IndexPage = () => {
         src="https://images.unsplash.com/photo-1607283339784-c73ff8195c0e"
         alt="Open your eyes dear!! by Umesh Soni"
         formats={["jpg"]}
-        maxWidth={830}
+        maxWidth={840}
       />
       <h4>WebP 23kB</h4>
       <StaticImage
         src="https://images.unsplash.com/photo-1607283339784-c73ff8195c0e"
         alt="Open your eyes dear!! by Umesh Soni"
         formats={["webp"]}
-        maxWidth={830}
+        maxWidth={840}
       />
       <h4>AVIF 14kB</h4>
       <StaticImage
         src="https://images.unsplash.com/photo-1607283339784-c73ff8195c0e"
         alt="Open your eyes dear!! by Umesh Soni"
         formats={["avif"]}
-        maxWidth={830}
+        maxWidth={840}
       />
 
       <p>Images via Unsplash</p>
